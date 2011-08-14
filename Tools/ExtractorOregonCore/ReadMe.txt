@@ -1,0 +1,1 @@
+[Warnings]: This is OregonCore Extractor, compiled for Win32 system @ Rev 1459+
